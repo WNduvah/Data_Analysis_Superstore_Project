@@ -16,3 +16,8 @@ The objective of this analysis was to evaluate business performance using the Su
 •	Highest performing product categories and sub-categories
 •	Regional sales and profitability
 •	Identification of underperforming products and regions
+
+
+## Dataset used
+
+<a href='https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset'>Superstore Dataset
